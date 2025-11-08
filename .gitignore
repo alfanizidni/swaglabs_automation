@@ -1,0 +1,30 @@
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Caches
+.cache/
+pytest_cache/
+
+# Allure results and reports
+allure-results/
+allure-report/
+
+# VSCode
+.vscode/
+
+# Environment
+.env
+.venv/
+venv/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Trial
+
+trial/

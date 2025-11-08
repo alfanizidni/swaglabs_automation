@@ -47,4 +47,4 @@ Project ini adalah automation testing untuk aplikasi mobile Swag Labs menggunaka
 - Konfigurasi device dan aplikasi dapat diubah di `conftest.py`.
 
 ---
-Automation by: [Nama Anda]
+Automation by: [Alfani Zidni Hidayah]

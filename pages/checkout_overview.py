@@ -23,7 +23,7 @@ class CheckoutOverviewPage:
             assert ov_prod2 == price2
 
     def compare_and_checkout(self, total):
-        with allure.step("Masukkan kode pos"): 
+        with allure.step("Compare total dan grand total kemudian checkout"): 
             finish_btn = self.driver.find_element(
                 AppiumBy.ANDROID_UIAUTOMATOR,Loc.SCROLL_FINISH                
             )
